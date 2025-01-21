@@ -1,0 +1,7 @@
+
+{
+    "annotations_dir": "./data/annotations",
+    "images_dir": "./data/images",
+    "model_file": "face_mask_model.keras",
+    "log_file": "evaluation_metrics.txt"
+}
